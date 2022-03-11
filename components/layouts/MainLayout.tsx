@@ -1,4 +1,4 @@
-import {FC} from 'React';
+import {FC} from 'react';
 
 import Head from 'next/head'
 import styles from './MainLayout.module.css'
