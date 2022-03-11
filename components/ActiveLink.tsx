@@ -1,4 +1,4 @@
-import {CSSProperties, FC} from 'React';
+import {CSSProperties, FC} from 'react';
 
 import Link from "next/link"
 import { useRouter } from "next/router"

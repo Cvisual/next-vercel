@@ -1,4 +1,4 @@
-import {FC} from 'REact'
+import {FC} from 'react'
 
 
 export const DarkLayout : FC = ({ children }) => {
