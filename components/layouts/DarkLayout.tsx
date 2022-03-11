@@ -12,6 +12,6 @@ export const DarkLayout : FC = ({ children }) => {
         <div>
         { children }
         </div>
-    </div>
+    </div>  
   )
 }
